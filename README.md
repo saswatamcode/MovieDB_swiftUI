@@ -12,7 +12,6 @@ An iOS Movie app made using SwiftUI. Uses the TMDb API to show Movie Carousels a
 ## Screenshots
 ![MainPage!](screenshots/Screenshot-1.png)
 ![MovieDetailPage!](screenshots/Screenshot-2.png)
-![SearchPage!](screenshots/Screenshot-3.png)
 
 
 ## To Run
