@@ -7,7 +7,7 @@
 [![Badge w/ Platform](https://cocoapod-badges.herokuapp.com/p/NSStringMask/badge.svg)](https://cocoadocs.org/docsets/NSStringMask)
 
 # MovieDB
-An iOS Movie app made using SwiftUI. Uses the TMDb API to show Movie Carousels and their detials. Also has search.
+An iOS Movie app made using SwiftUI. Uses the TMDb API to show Movie Carousels and their details. Also has search.
 
 ## Screenshots
 ![MainPage!](screenshots/Screenshot-1.png)
